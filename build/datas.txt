@@ -1,0 +1,1 @@
+ datas=[('signinpage.py', '.'),    ('AddPass.py', '.'), ('alldirScan.py', '.'),    	('antivirusgui.py', '.'), ('csOFF.py', '.'),    ('csON.py', '.'), ('delpass.py', 	'.'),    ('dirSCan.py', '.'), ('getPass.py', '.'),    ('Homepage.py', 	'.'),('passMan.py', '.'),    ('signup.py', '.'), ('updtPass.py', '.')],
